@@ -1,0 +1,4 @@
+
+{"user":"1","deleted_on":"2017-07-15 10:24:51","table":"student","data":[{"ID":"3","batch_ID":"6","name":"a","roll_no":"a","description":"","created_by":"1","created_on":"2017-07-12 17:33:26","updated_by":null,"updated_on":null}]}
+{"user":"1","deleted_on":"2017-07-15 10:24:57","table":"student","data":[{"ID":"2","batch_ID":"6","name":"as","roll_no":"as","description":"","created_by":"1","created_on":"2017-07-12 17:32:49","updated_by":null,"updated_on":null}]}
+{"user":"1","deleted_on":"2017-07-15 10:25:00","table":"student","data":[{"ID":"1","batch_ID":"6","name":"sfsdf","roll_no":"fsdfsdf","description":"","created_by":"1","created_on":"2017-07-12 17:28:01","updated_by":null,"updated_on":null}]}

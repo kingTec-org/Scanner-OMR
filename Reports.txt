@@ -1,0 +1,17 @@
+View Result :-
+
+Roll No | Student Name | Qn Attempted | Qn Correct | Qn Wrong | Easy | Medium | Hard | Total Marks
+Average for all
+
+Upload OMR Sheet :-
+
+Steps :
+1. Upload PDF (Compulsory PDF Only)
+2. Convert each page to JPEG and save it to particular test directory
+3. OMR Starts
+4. Recognising Answers 
+5. Fetching Results
+
+Final Result Show 
+
+Case :

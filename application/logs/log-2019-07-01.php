@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-07-01 03:56:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-07-01 06:15:16 --> 404 Page Not Found: TP/public
+ERROR - 2019-07-01 06:15:16 --> 404 Page Not Found: TP/index.php
+ERROR - 2019-07-01 06:15:17 --> 404 Page Not Found: Thinkphp/html
+ERROR - 2019-07-01 06:15:17 --> 404 Page Not Found: Html/public
+ERROR - 2019-07-01 06:15:18 --> 404 Page Not Found: Public/index.php
+ERROR - 2019-07-01 06:15:18 --> 404 Page Not Found: TP/html
+ERROR - 2019-07-01 06:15:18 --> 404 Page Not Found: Elrektphp/index
+ERROR - 2019-07-01 07:07:12 --> 404 Page Not Found: TP/public
+ERROR - 2019-07-01 07:07:13 --> 404 Page Not Found: TP/index.php
+ERROR - 2019-07-01 07:07:13 --> 404 Page Not Found: Thinkphp/html
+ERROR - 2019-07-01 07:07:14 --> 404 Page Not Found: Html/public
+ERROR - 2019-07-01 07:07:15 --> 404 Page Not Found: Public/index.php
+ERROR - 2019-07-01 07:07:16 --> 404 Page Not Found: TP/html
+ERROR - 2019-07-01 07:07:17 --> 404 Page Not Found: Elrektphp/index
+ERROR - 2019-07-01 08:36:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-07-01 08:36:43 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2019-07-01 08:36:44 --> 404 Page Not Found: Well_known/security.txt
+ERROR - 2019-07-01 08:36:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-07-01 13:15:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-07-01 19:44:30 --> 404 Page Not Found: TP/public
+ERROR - 2019-07-01 19:44:31 --> 404 Page Not Found: TP/index.php
+ERROR - 2019-07-01 19:44:31 --> 404 Page Not Found: Thinkphp/html
+ERROR - 2019-07-01 19:44:32 --> 404 Page Not Found: Html/public
+ERROR - 2019-07-01 19:44:32 --> 404 Page Not Found: Public/index.php
+ERROR - 2019-07-01 19:44:33 --> 404 Page Not Found: TP/html
+ERROR - 2019-07-01 19:44:33 --> 404 Page Not Found: Elrektphp/index
+ERROR - 2019-07-01 21:30:47 --> 404 Page Not Found: Acadminphp/index

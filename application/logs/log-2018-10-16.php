@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-10-16 04:28:57 --> 404 Page Not Found: Tftpboot/000000000000.cfg
+ERROR - 2018-10-16 04:28:58 --> 404 Page Not Found: Prov/000000000000.cfg
+ERROR - 2018-10-16 04:31:30 --> 404 Page Not Found: Gs/000000000000.cfg
+ERROR - 2018-10-16 04:32:34 --> 404 Page Not Found: 000000000000cfg/index
+ERROR - 2018-10-16 04:34:01 --> 404 Page Not Found: Provisioning/000000000000.cfg
+ERROR - 2018-10-16 04:35:50 --> 404 Page Not Found: Ftp/000000000000.cfg
+ERROR - 2018-10-16 04:36:34 --> 404 Page Not Found: Phone/000000000000.cfg
+ERROR - 2018-10-16 04:37:56 --> 404 Page Not Found: Provision/000000000000.cfg
+ERROR - 2018-10-16 04:38:28 --> 404 Page Not Found: Polycom/000000000000.cfg
+ERROR - 2018-10-16 04:39:21 --> 404 Page Not Found: Pv/000000000000.cfg
+ERROR - 2018-10-16 04:41:17 --> 404 Page Not Found: Tftp/000000000000.cfg
+ERROR - 2018-10-16 05:01:42 --> 404 Page Not Found: Ext/000000000000.cfg
+ERROR - 2018-10-16 05:32:42 --> 404 Page Not Found: Yealink/y000000000000.cfg
+ERROR - 2018-10-16 09:07:03 --> 404 Page Not Found: Logincgi/index
+ERROR - 2018-10-16 15:39:24 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2018-10-16 19:22:00 --> 404 Page Not Found: 479912132:39169/Ip
+ERROR - 2018-10-16 21:18:21 --> 404 Page Not Found: Manager/html
+ERROR - 2018-10-16 22:35:39 --> 404 Page Not Found: Gs/y000000000000.cfg
+ERROR - 2018-10-16 22:35:42 --> 404 Page Not Found: Config/y000000000000.cfg
+ERROR - 2018-10-16 22:38:00 --> 404 Page Not Found: Tftp/y000000000000.cfg
+ERROR - 2018-10-16 22:42:20 --> 404 Page Not Found: Prov/y000000000000.cfg
+ERROR - 2018-10-16 22:42:37 --> 404 Page Not Found: Y000000000000cfg/index
+ERROR - 2018-10-16 22:45:25 --> 404 Page Not Found: Provision/y000000000000.cfg
+ERROR - 2018-10-16 22:48:12 --> 404 Page Not Found: Pv/y000000000000.cfg
+ERROR - 2018-10-16 22:49:31 --> 404 Page Not Found: Provisioning/y000000000000.cfg
+ERROR - 2018-10-16 22:52:33 --> 404 Page Not Found: Ftp/y000000000000.cfg
+ERROR - 2018-10-16 22:54:41 --> 404 Page Not Found: Phone/y000000000000.cfg
+ERROR - 2018-10-16 22:54:54 --> 404 Page Not Found: Ext/y000000000000.cfg
+ERROR - 2018-10-16 23:04:31 --> 404 Page Not Found: Tftpboot/y000000000000.cfg

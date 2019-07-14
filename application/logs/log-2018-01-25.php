@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-01-25 01:57:50 --> 404 Page Not Found: Muieblackcat/index
+ERROR - 2018-01-25 01:57:58 --> 404 Page Not Found: Pma/scripts
+ERROR - 2018-01-25 01:58:02 --> 404 Page Not Found: MyAdmin/scripts
+ERROR - 2018-01-25 01:58:02 --> 404 Page Not Found: Pma/scripts
+ERROR - 2018-01-25 01:58:05 --> 404 Page Not Found: Pma/scripts
+ERROR - 2018-01-25 01:58:06 --> 404 Page Not Found: Myadmin/scripts
+ERROR - 2018-01-25 01:58:07 --> 404 Page Not Found: MyAdmin/scripts
+ERROR - 2018-01-25 02:21:47 --> 404 Page Not Found: MyAdmin/scripts
+ERROR - 2018-01-25 06:27:40 --> 404 Page Not Found: 000000000000cfg/index
+ERROR - 2018-01-25 22:50:26 --> 404 Page Not Found: Scripts/scripts
+ERROR - 2018-01-25 22:50:26 --> 404 Page Not Found: Db/scripts
+ERROR - 2018-01-25 22:50:27 --> 404 Page Not Found: Myadmin/scripts
+ERROR - 2018-01-25 22:50:27 --> 404 Page Not Found: Mysql/scripts
+ERROR - 2018-01-25 22:50:27 --> 404 Page Not Found: PhpMyAdmin2/scripts
+ERROR - 2018-01-25 22:50:28 --> 404 Page Not Found: Admin/sql
+ERROR - 2018-01-25 22:50:28 --> 404 Page Not Found: Admin/phpmyadmin
+ERROR - 2018-01-25 22:50:28 --> 404 Page Not Found: Admin/scripts
+ERROR - 2018-01-25 22:50:29 --> 404 Page Not Found: Sqladmin/scripts
+ERROR - 2018-01-25 22:50:29 --> 404 Page Not Found: Mysqladmin/scripts
+ERROR - 2018-01-25 22:50:29 --> 404 Page Not Found: Phpadmin/scripts
+ERROR - 2018-01-25 22:50:30 --> 404 Page Not Found: Blog/phpmyadmin
+ERROR - 2018-01-25 22:50:30 --> 404 Page Not Found: Web/phpmyadmin
+ERROR - 2018-01-25 22:50:30 --> 404 Page Not Found: Dbadmin/scripts
+ERROR - 2018-01-25 22:50:31 --> 404 Page Not Found: Pma/scripts
+ERROR - 2018-01-25 22:50:31 --> 404 Page Not Found: Database/scripts
+ERROR - 2018-01-25 22:50:31 --> 404 Page Not Found: Php/phpmyadmin
+ERROR - 2018-01-25 22:50:32 --> 404 Page Not Found: Web/phpMyAdmin
+ERROR - 2018-01-25 22:50:32 --> 404 Page Not Found: Php/scripts
+ERROR - 2018-01-25 22:50:32 --> 404 Page Not Found: _phpmyadmin/scripts

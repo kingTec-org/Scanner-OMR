@@ -1,0 +1,5 @@
+
+{"user":"1","deleted_on":"2017-07-13 08:30:45","table":"batch","data":[{"ID":"8","title":"sdf fsd fsdfsdf","description":"","created_by":"1","created_on":"2017-07-13 12:00:38","updated_by":null,"updated_on":null}]}
+{"user":"1","deleted_on":"2017-07-13 08:31:31","table":"batch","data":[{"ID":"9","title":"XYZ","description":"","created_by":"1","created_on":"2017-07-13 12:01:25","updated_by":null,"updated_on":null}]}
+{"user":"1","deleted_on":"2017-07-13 08:32:43","table":"batch","data":[{"ID":"10","title":"sfsfsdf","description":"","created_by":"1","created_on":"2017-07-13 12:02:15","updated_by":null,"updated_on":null}]}
+{"user":"1","deleted_on":"2017-07-13 08:36:33","table":"student","data":[{"ID":"4","batch_ID":null,"name":"fsdfsdf","roll_no":"fsdfsdf","description":"fsdfsd","created_by":"1","created_on":"2017-07-13 12:02:26","updated_by":null,"updated_on":null}]}

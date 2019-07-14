@@ -1,0 +1,33 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-01-07 07:05:25 --> 404 Page Not Found: Sftp_configjson/index
+ERROR - 2018-01-07 07:05:25 --> 404 Page Not Found: Ftpconfig/index
+ERROR - 2018-01-07 07:05:25 --> 404 Page Not Found: Vscode/ftp_sync.json
+ERROR - 2018-01-07 09:26:33 --> 404 Page Not Found: PhpmyAdmin/index
+ERROR - 2018-01-07 09:26:34 --> 404 Page Not Found: Phpmyadmin2/index
+ERROR - 2018-01-07 09:26:35 --> 404 Page Not Found: Phpmyadmin3/index
+ERROR - 2018-01-07 09:26:36 --> 404 Page Not Found: Phpmyadmin4/index
+ERROR - 2018-01-07 09:26:37 --> 404 Page Not Found: 2phpmyadmin/index
+ERROR - 2018-01-07 09:26:37 --> 404 Page Not Found: MyAdmin/index
+ERROR - 2018-01-07 09:26:38 --> 404 Page Not Found: PMA/index
+ERROR - 2018-01-07 09:26:39 --> 404 Page Not Found: Admin/db
+ERROR - 2018-01-07 09:26:40 --> 404 Page Not Found: Admin/phpMyAdmin
+ERROR - 2018-01-07 09:26:40 --> 404 Page Not Found: Admin/phpmyadmin
+ERROR - 2018-01-07 09:26:41 --> 404 Page Not Found: Admin/sqladmin
+ERROR - 2018-01-07 09:26:42 --> 404 Page Not Found: Admin/sysadmin
+ERROR - 2018-01-07 09:26:43 --> 404 Page Not Found: Db/phpMyAdmin_3
+ERROR - 2018-01-07 09:26:43 --> 404 Page Not Found: Db/phpMyAdmin
+ERROR - 2018-01-07 09:26:44 --> 404 Page Not Found: Db/phpMyAdmin3
+ERROR - 2018-01-07 09:26:45 --> 404 Page Not Found: Db/phpmyadmin
+ERROR - 2018-01-07 09:26:45 --> 404 Page Not Found: Db/phpmyadmin3
+ERROR - 2018-01-07 09:26:46 --> 404 Page Not Found: Myadmin/index
+ERROR - 2018-01-07 09:26:47 --> 404 Page Not Found: PhpMyAdmin/index
+ERROR - 2018-01-07 09:26:48 --> 404 Page Not Found: PhpMyAdmin2/index
+ERROR - 2018-01-07 09:26:48 --> 404 Page Not Found: PhpMyAdmin3/index
+ERROR - 2018-01-07 09:26:49 --> 404 Page Not Found: PhpMyAdmin4/index
+ERROR - 2018-01-07 09:26:50 --> 404 Page Not Found: PhpMyadmin/index
+ERROR - 2018-01-07 10:05:42 --> 404 Page Not Found: PhpMyAdmin/scripts
+ERROR - 2018-01-07 10:05:43 --> 404 Page Not Found: Pma/scripts
+ERROR - 2018-01-07 10:05:43 --> 404 Page Not Found: Myadmin/scripts
+ERROR - 2018-01-07 10:05:44 --> 404 Page Not Found: MyAdmin/scripts
+ERROR - 2018-01-07 11:50:20 --> 404 Page Not Found: Robotstxt/index

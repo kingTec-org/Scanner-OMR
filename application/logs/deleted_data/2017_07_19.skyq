@@ -1,0 +1,5 @@
+
+{"user":"1","deleted_on":"2017-07-19 08:24:47","table":"subject","data":[{"ID":"4","title":"Biology","description":"","created_by":"1","created_on":"2017-07-19 11:54:27","updated_by":null,"updated_on":null}]}
+{"user":"1","deleted_on":"2017-07-19 08:55:25","table":"chapter","data":[{"ID":"8","subject_ID":"1","title":"sdgsgs gsd gsdgds","description":"","created_by":"1","created_on":"2017-07-19 12:24:11","updated_by":null,"updated_on":null}]}
+{"user":"1","deleted_on":"2017-07-19 08:55:29","table":"chapter","data":[{"ID":"9","subject_ID":"2","title":"gsdgsdgdsgsd","description":"","created_by":"1","created_on":"2017-07-19 12:24:19","updated_by":null,"updated_on":null}]}
+{"user":"1","deleted_on":"2017-07-19 08:55:33","table":"chapter","data":[{"ID":"7","subject_ID":"3","title":"Chfkjfsfd","description":"","created_by":"1","created_on":"2017-07-19 12:24:06","updated_by":"1","updated_on":"2017-07-19 12:24:59"}]}
